@@ -1,0 +1,16 @@
+GITHUB:
+
+https://github.com/yangshun/tech-interview-handbook/tree/master/experimental/design
+https://github.com/checkcheckzz/system-design-interview
+https://github.com/donnemartin/system-design-primer
+http://blog.gainlo.co/index.php/category/system-design-interview-questions/
+
+OTHERS:
+
+https://www.hiredintech.com/courses/system-design
+https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
+https://www.interviewbit.com/courses/system-design
+https://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview
+https://www.educative.io/collection/5668639101419520/5649050225344512
+https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3
+https://www.codekarle.com/
